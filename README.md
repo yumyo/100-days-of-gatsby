@@ -9,7 +9,7 @@
 
 ## The Why
 
-These 100 days are focused on **improving my core JavaScript knowledge**.
+These 100 days are focused on **improving my core Gatbsy knowledge**.
 
 ## Resources
 
